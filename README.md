@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project provides a framework for analyzing Ethereum blockchain transactions to identify end users (individuals) and distinguish them from institutional accounts, exchanges, and smart contracts. The system uses transaction graph analysis, machine learning, and heuristic-based approaches to classify addresses and predict user behaviors.
+This project provides a framework for analyzing Ethereum blockchain transactions to identify end users (individuals) and distinguish them from institutional accounts, exchanges, and smart contracts. The system uses transaction graph analysis, machine learning, and heuristic-based approaches to classify addresses and predict user behaviors . Me along with my friend Chorko built this project
 
 ## Features
 
